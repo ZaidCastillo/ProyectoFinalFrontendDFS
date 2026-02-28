@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Gestor de presupuesto",
+  title: "Budget Manager",
   description: "Gestiona tu presupuesto: balance, ingresos y gastos, metas y huchas de ahorro.",
 };
 
